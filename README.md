@@ -1,4 +1,6 @@
-# crRequest
+<p align="center">
+  <img src="./crRequest.svg" width="116" height="116" alt="crRequest application icon">
+</p>
 
 `crRequest` 是一个基于 Chromium 150 Network Service、Blink 和 Views 构建的桌面
 开发工具，集成了 HTTP API 调试、SSH/SFTP、数据库查询和常用开发工具。它可以编辑
